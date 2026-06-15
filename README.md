@@ -38,4 +38,5 @@ Personal AI assistant for files
 <img width="959" height="442" alt="Screenshot 2026-06-16 001406" src="https://github.com/user-attachments/assets/916b2617-5dec-4b46-82da-a5bd22071ced" />
 
 
-<img width="950" height="424" alt="image" src="https://github.com/user-attachments/assets/3fcc1d63-a56b-4ce9-ac84-3bc1c974fd6e" />
+<img width="945" height="435" alt="image" src="https://github.com/user-attachments/assets/7b01c4cb-20da-48d9-a427-d72872897e69" />
+

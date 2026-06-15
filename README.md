@@ -34,3 +34,5 @@ Company internal knowledge assistant
 HR policy chatbot
 Document Q&A system
 Personal AI assistant for files
+
+<img width="959" height="442" alt="Screenshot 2026-06-16 001406" src="https://github.com/user-attachments/assets/916b2617-5dec-4b46-82da-a5bd22071ced" />

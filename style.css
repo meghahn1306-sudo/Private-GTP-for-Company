@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+}
+
+.container{
+    width:70%;
+    margin:50px auto;
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+h1{
+    text-align:center;
+}
+
+input{
+    width:75%;
+    padding:10px;
+}
+
+button{
+    padding:10px 20px;
+}
+
+.answer{
+    margin-top:20px;
+    background:#eef;
+    padding:15px;
+    border-radius:5px;
+}
